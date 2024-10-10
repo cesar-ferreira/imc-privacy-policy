@@ -1,0 +1,48 @@
+# Política de Privacidade
+
+Esta Política de Privacidade descreve como seu aplicativo de Cálculo de IMC coleta, usa e protege as informações fornecidas pelos usuários.
+
+## 1. Informações Coletadas
+
+### 1.1 Informações Pessoais
+O aplicativo solicita os seguintes dados do usuário para o cálculo do IMC:
+- Peso
+- Altura
+- Idade
+- Gênero
+
+Essas informações são utilizadas **apenas** para o cálculo do IMC e **não são armazenadas** ou compartilhadas com terceiros.
+
+### 1.2 Google Analytics
+O aplicativo utiliza o **Google Analytics** para coletar informações anônimas sobre o uso do aplicativo, tais como:
+- Frequência de uso
+- Funcionalidades mais acessadas
+- Erros e falhas
+
+Esses dados são utilizados para melhorar a experiência do usuário e o desempenho do aplicativo. Nenhuma informação pessoal identificável é coletada ou armazenada pelo Google Analytics.
+
+### 1.3 Anúncios
+O aplicativo exibe anúncios de terceiros para apoiar a manutenção e desenvolvimento do serviço. Esses anúncios podem utilizar cookies e tecnologias semelhantes para personalizar a experiência do usuário. Não temos controle sobre as informações coletadas por terceiros para fins publicitários. Recomendamos que você consulte as políticas de privacidade desses anunciantes para obter mais informações sobre como eles utilizam seus dados.
+
+## 2. Uso das Informações
+
+As informações fornecidas pelo usuário são utilizadas unicamente para:
+- Calcular o IMC
+- Coletar estatísticas anônimas de uso via Google Analytics
+- Exibir anúncios de terceiros
+
+## 3. Compartilhamento de Informações
+
+Nós **não compartilhamos** informações pessoais fornecidas pelos usuários com terceiros. No entanto, terceiros (como anunciantes) podem coletar dados anonimizados para personalizar a publicidade exibida no aplicativo.
+
+## 4. Segurança
+
+Implementamos medidas de segurança adequadas para proteger os dados do usuário contra acesso, alteração, divulgação ou destruição não autorizada. No entanto, tenha em mente que nenhum método de transmissão pela Internet ou de armazenamento eletrônico é 100% seguro.
+
+## 5. Alterações a Esta Política
+
+Esta política de privacidade pode ser alterada ocasionalmente. Quaisquer mudanças serão refletidas nesta página, e recomendamos que você reveja esta política periodicamente.
+
+## 6. Contato
+
+Se você tiver alguma dúvida sobre esta política de privacidade, entre em contato através do [e-mail de suporte] ou acesse nossa página no GitHub.
