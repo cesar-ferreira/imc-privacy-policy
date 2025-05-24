@@ -5,14 +5,15 @@ Esta Política de Privacidade descreve como seu aplicativo de BMR Calculator col
 ## 1. Informações Coletadas
 
 ### 1.1 Informações Pessoais
-O aplicativo solicita os seguintes dados do usuário para o cálculo do gordura corporal:
+O aplicativo solicita os seguintes dados do usuário para o cálculo de taxa matabólica basal:
 - Peso
 - Altura
 - Idade
 - Gênero
-- Atividade física
+- Tipo de Atividade física
+- Nível de Atividade física
 
-Essas informações são utilizadas **apenas** para o cálculo de gordura corporal e são armazenadas **apenas** localmente, porém **não** compartilhadas com terceiros.
+Essas informações são utilizadas **apenas** para o cálculo de taxa matabólica basal e são armazenadas **apenas** localmente, porém **não** compartilhadas com terceiros.
 
 ### 1.2 Google Analytics
 O aplicativo utiliza o **Google Analytics** para coletar informações anônimas sobre o uso do aplicativo, tais como:
