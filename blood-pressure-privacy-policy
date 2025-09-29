@@ -5,13 +5,12 @@ Esta Política de Privacidade descreve como seu aplicativo Minha Pressão – Mo
 ## 1. Informações Coletadas
 
 ### 1.1 Informações Pessoais
-O aplicativo solicita os seguintes dados do usuário para o cálculo do IMC:
-- Peso
-- Altura
-- Idade
-- Gênero
+O aplicativo solicita os seguintes dados do usuário para o cálculo da pressão arterial:
+- Sistolica
+- Diastolica
+- bpm
 
-Essas informações são utilizadas **apenas** para o cálculo do IMC e **não são armazenadas** ou compartilhadas com terceiros.
+Essas informações são utilizadas **apenas** para o cálculo da pressão arterial e **não são armazenadas** ou compartilhadas com terceiros.
 
 ### 1.2 Google Analytics
 O aplicativo utiliza o **Google Analytics** para coletar informações anônimas sobre o uso do aplicativo, tais como:
@@ -27,7 +26,7 @@ O aplicativo exibe anúncios de terceiros para apoiar a manutenção e desenvolv
 ## 2. Uso das Informações
 
 As informações fornecidas pelo usuário são utilizadas unicamente para:
-- Calcular o IMC
+- Calcular a pressão arterial
 - Coletar estatísticas anônimas de uso via Google Analytics
 - Exibir anúncios de terceiros
 
