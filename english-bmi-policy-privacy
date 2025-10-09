@@ -1,0 +1,48 @@
+# Privacy Policy
+
+This Privacy Policy describes how your BMI Calculator app collects, uses, and protects information provided by users.
+
+## 1. Information Collected
+
+### 1.1 Personal Information
+The app requests the following user data to calculate BMI:
+- Weight
+- Height
+- Age
+- Gender
+
+This information is used **only** to calculate BMI and **is not stored** or shared with third parties.
+
+### 1.2 Google Analytics
+The app uses **Google Analytics** to collect anonymous information about app usage, such as:
+- Frequency of use
+- Most popular features
+- Errors and crashes
+
+This data is used to improve the user experience and app performance. No personally identifiable information is collected or stored by Google Analytics.
+
+### 1.3 Advertising
+The app displays third-party advertisements to support the maintenance and development of the service. These ads may use cookies and similar technologies to personalize the user experience. We have no control over the information collected by third parties for advertising purposes. We recommend that you consult the privacy policies of these advertisers for more information about how they use your data.
+
+## 2. Use of Information
+
+Information provided by users is used solely to:
+- Calculate BMI
+- Collect anonymous usage statistics via Google Analytics
+- Display third-party advertisements
+
+## 3. Sharing of Information
+
+We do not share personal information provided by users with third parties. However, third parties (such as advertisers) may collect anonymized data to personalize the advertising displayed on the app.
+
+## 4. Security
+
+We implement appropriate security measures to protect user data from unauthorized access, alteration, disclosure, or destruction. However, please keep in mind that no method of transmission over the Internet or electronic storage is 100% secure.
+
+## 5. Changes to This Policy
+
+This privacy policy may be changed from time to time. Any changes will be reflected on this page, and we recommend that you review this policy periodically.
+
+## 6. Contact
+
+If you have any questions about this privacy policy, please contact us at apps.sphere.25@gmail.com or visit our GitHub page.
