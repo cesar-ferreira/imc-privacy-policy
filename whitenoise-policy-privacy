@@ -1,1 +1,75 @@
+# Política de Privacidade — ZenMix: Offline White Noise & Sleep
+
+Esta Política de Privacidade descreve como o aplicativo **ZenMix** coleta, utiliza e protege as informações relacionadas aos seus usuários.
+
+## 1. Informações Coletadas
+
+### 1.1 Dados Armazenados Localmente no Seu Dispositivo
+
+O ZenMix **não** coleta informações pessoais (como nome, endereço de e-mail ou localização). O aplicativo armazena os seguintes dados exclusivamente no seu dispositivo:
+
+- **Presets e favoritos de áudio** — combinações de sons e níveis de volume que você salva
+- **Preferências do aplicativo** — duração padrão do timer, duração do fade-out e configuração de timer infinito
+- **Estado do onboarding** — se você concluiu o fluxo de apresentação inicial do app
+- **Status da assinatura** — se há uma assinatura ativa ou compra vitalícia (armazenado localmente; não há conta ou servidor envolvido)
+- **Timestamps de frequência de anúncios** — usados para limitar com que frequência anúncios intersticiais e recompensados são exibidos
+
+Nenhum desses dados é transmitido para nossos servidores ou compartilhado com terceiros.
+
+### 1.2 Publicidade — Google AdMob
+
+O ZenMix exibe anúncios fornecidos pelo **Google AdMob** (formatos banner, intersticial e recompensado) para viabilizar o plano gratuito do aplicativo. O Google pode coletar identificadores de dispositivo e dados de interação (como impressões e cliques em anúncios) para exibir e mensurar os anúncios. Não transmitimos dados pessoais do usuário ao AdMob; as solicitações de anúncios são feitas com configurações padrão.
+
+Para mais informações sobre como o Google utiliza dados de aplicativos que usam o AdMob, acesse:
+[https://policies.google.com/privacy](https://policies.google.com/privacy)
+
+Você pode desativar a publicidade personalizada nas configurações do seu dispositivo (Android: *Configurações do Google → Anúncios*; iOS: *Configurações → Privacidade e Segurança → Publicidade da Apple*).
+
+### 1.3 Compras e Assinaturas In-App
+
+O ZenMix oferece assinaturas opcionais (semanal, anual) e uma compra vitalícia por meio da **App Store da Apple** e da **Google Play Store**. Todo o processamento de pagamentos é realizado inteiramente pela Apple ou pelo Google. Não coletamos, armazenamos nem temos acesso aos dados do seu cartão de pagamento. Armazenamos apenas um indicador local de que uma compra está ativa, junto com o timestamp de expiração.
+
+Para detalhes sobre como a Apple e o Google tratam os dados de compra, consulte:
+- Apple: [https://www.apple.com/br/legal/privacy/](https://www.apple.com/br/legal/privacy/)
+- Google: [https://policies.google.com/privacy?hl=pt-BR](https://policies.google.com/privacy?hl=pt-BR)
+
+## 2. Uso das Informações
+
+Os dados descritos acima são utilizados exclusivamente para:
+
+- Fornecer e personalizar a experiência principal do aplicativo (presets, timer, mixer)
+- Determinar a elegibilidade para funcionalidades premium com base no status da assinatura
+- Exibir anúncios de terceiros para apoiar o desenvolvimento do aplicativo
+- Controlar a frequência dos anúncios para evitar uma experiência intrusiva
+
+## 3. Compartilhamento de Informações
+
+Não vendemos, negociamos nem compartilhamos informações pessoais com terceiros. Serviços de terceiros (Google AdMob, Apple App Store, Google Play Store) podem coletar dados anonimizados ou agregados de forma independente, conforme suas próprias políticas de privacidade descritas na Seção 1.
+
+## 4. Serviços de Terceiros
+
+| Serviço | Finalidade | Política de Privacidade |
+|---|---|---|
+| Google AdMob | Publicidade in-app | [policies.google.com/privacy](https://policies.google.com/privacy?hl=pt-BR) |
+| Apple App Store | Compras in-app (iOS) | [apple.com/br/legal/privacy](https://www.apple.com/br/legal/privacy/) |
+| Google Play Store | Compras in-app (Android) | [policies.google.com/privacy](https://policies.google.com/privacy?hl=pt-BR) |
+
+## 5. Retenção de Dados e Segurança
+
+Todos os dados armazenados pelo ZenMix residem no seu dispositivo. Você pode excluí-los a qualquer momento desinstalando o aplicativo. Implementamos práticas de segurança padrão para proteger os dados armazenados localmente, mas nenhum método de armazenamento eletrônico é 100% seguro.
+
+## 6. Privacidade de Crianças
+
+O ZenMix não coleta intencionalmente informações pessoais de crianças menores de 13 anos. O aplicativo é voltado para o público geral, incluindo o uso para sono de bebês. Se você acredita que uma criança forneceu informações pessoais por meio do nosso aplicativo, entre em contato conosco e tomaremos as providências adequadas.
+
+## 7. Alterações nesta Política
+
+Esta política de privacidade pode ser atualizada periodicamente. Quaisquer alterações serão refletidas nesta página com uma data de vigência atualizada. Recomendamos revisar esta política periodicamente.
+
+**Última atualização:** maio de 2025
+
+## 8. Contato
+
+Se você tiver dúvidas sobre esta política de privacidade, entre em contato pelo e-mail:
+**apps.sphere.25@gmail.com**
 
