@@ -1,1 +1,75 @@
+# Privacy Policy — ZenMix: Offline White Noise & Sleep
+
+This Privacy Policy describes how the **ZenMix** app collects, uses, and protects information related to its users.
+
+## 1. Information We Collect
+
+### 1.1 Data Stored Locally on Your Device
+
+ZenMix does **not** collect personal information (such as name, email address, or location). The app stores the following data exclusively on your device:
+
+- **Audio presets and favorites** — sound combinations and volume levels you save
+- **App preferences** — default timer duration, fade-out duration, and infinite timer settings
+- **Onboarding state** — whether you have completed the initial onboarding flow
+- **Subscription status** — whether an active subscription or lifetime purchase is in place (stored locally; no account or server is involved)
+- **Ad frequency timestamps** — used to limit how often interstitial and rewarded ads are shown
+
+None of this data is transmitted to our servers or shared with third parties.
+
+### 1.2 Advertising — Google AdMob
+
+ZenMix displays ads provided by **Google AdMob** (banner, interstitial, and rewarded formats) to support the free tier of the app. Google may collect device identifiers and interaction data (such as ad impressions and clicks) to serve and measure ads. We do not pass any personal user data to AdMob; ad requests are made with default settings.
+
+For more information on how Google uses data from apps that use AdMob, please visit:
+[https://policies.google.com/privacy](https://policies.google.com/privacy)
+
+You can opt out of personalized advertising via your device settings (Android: *Google Settings → Ads*; iOS: *Settings → Privacy & Security → Apple Advertising*).
+
+### 1.3 In-App Purchases and Subscriptions
+
+ZenMix offers optional subscriptions (weekly, annual) and a lifetime purchase through the **Apple App Store** and **Google Play Store**. All payment processing is handled entirely by Apple or Google. We do not collect, store, or have access to your payment card details. We store only a local flag indicating whether a purchase is active, along with its expiration timestamp.
+
+For details on how Apple and Google handle purchase data, refer to:
+- Apple: [https://www.apple.com/legal/privacy/](https://www.apple.com/legal/privacy/)
+- Google: [https://policies.google.com/privacy](https://policies.google.com/privacy)
+
+## 2. Use of Information
+
+The data described above is used solely to:
+
+- Provide and personalize the core app experience (presets, timer, mixer)
+- Determine eligibility for premium features based on subscription status
+- Display third-party advertisements to support app development
+- Control ad frequency to avoid an intrusive user experience
+
+## 3. Sharing of Information
+
+We do not sell, trade, or share personal information with third parties. Third-party services (Google AdMob, Apple App Store, Google Play Store) may collect anonymized or aggregated data independently under their own privacy policies, as described in Section 1.
+
+## 4. Third-Party Services
+
+| Service | Purpose | Privacy Policy |
+|---|---|---|
+| Google AdMob | In-app advertising | [policies.google.com/privacy](https://policies.google.com/privacy) |
+| Apple App Store | In-app purchases (iOS) | [apple.com/legal/privacy](https://www.apple.com/legal/privacy/) |
+| Google Play Store | In-app purchases (Android) | [policies.google.com/privacy](https://policies.google.com/privacy) |
+
+## 5. Data Retention and Security
+
+All data stored by ZenMix resides on your device. You can delete it at any time by uninstalling the app. We implement standard security practices to protect locally stored data, but no method of electronic storage is 100% secure.
+
+## 6. Children's Privacy
+
+ZenMix does not knowingly collect personal information from children under 13. The app is designed for general audiences, including use for baby sleep sounds. If you believe a child has provided personal information through our app, please contact us and we will take appropriate steps.
+
+## 7. Changes to This Policy
+
+This privacy policy may be updated from time to time. Any changes will be reflected on this page with an updated effective date. We recommend reviewing this policy periodically.
+
+**Last updated:** May 2025
+
+## 8. Contact
+
+If you have any questions about this privacy policy, please contact us at:
+**apps.sphere.25@gmail.com**
 
