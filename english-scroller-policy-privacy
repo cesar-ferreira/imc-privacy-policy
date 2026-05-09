@@ -1,1 +1,54 @@
+# Privacy Policy — LED Scroller
 
+This Privacy Policy describes how the LED Scroller app collects, uses, and protects information related to its users.
+
+Last updated: May 2026
+
+## 1. Information We Collect
+
+### 1.1 User-Created Content
+LED Scroller stores the following data **locally on your device only**:
+- Scrolling banner configurations (text, font, colors, speed, direction, and display settings)
+- Custom color history
+
+This data never leaves your device and is never transmitted to our servers or any third party.
+
+### 1.2 Subscription and Purchase Status
+The app stores your subscription and premium purchase status locally on the device (using secure local storage). This information is used only to unlock premium features. We do not receive or store any payment or financial information — all transactions are handled entirely by Apple (App Store) or Google (Google Play).
+
+### 1.3 Advertising
+The app displays ads via **Google AdMob** to support the free version. AdMob may collect and use device identifiers, IP address, and usage data to serve personalized or non-personalized ads. This data is collected and managed directly by Google.
+
+For more information on how Google uses data for advertising, visit: https://policies.google.com/privacy
+
+### 1.4 Usage Analytics
+AdMob and the platform stores (Apple/Google) may collect anonymous usage statistics to help us understand how the app is used and to improve performance. No personally identifiable information is collected by us directly.
+
+## 2. Use of Information
+
+The information described above is used solely to:
+- Operate core app features (banner display and storage)
+- Validate your subscription or premium purchase status
+- Serve ads through Google AdMob to support the free tier
+
+## 3. Sharing of Information
+
+We do not sell, rent, or share your personal information with third parties. The only data shared externally is:
+- **Google AdMob**: may collect advertising-related data as described in section 1.3
+- **Apple App Store / Google Play**: processes and validates in-app purchase transactions
+
+## 4. Data Security
+
+All user-created content (banners, colors) and preferences are stored exclusively on your device. We do not operate servers that store your personal data. While we take reasonable measures to protect locally stored data, no storage method is 100% secure.
+
+## 5. Children's Privacy
+
+LED Scroller is not directed at children under the age of 13. We do not knowingly collect personal information from children. If you believe your child has provided data through the app, please contact us and we will take appropriate action.
+
+## 6. Changes to This Policy
+
+This privacy policy may be updated periodically. Any changes will be reflected on this page with an updated date. We recommend reviewing this policy from time to time.
+
+## 7. Contact
+
+If you have any questions about this privacy policy, please contact us at **apps.sphere.25@gmail.com**.
