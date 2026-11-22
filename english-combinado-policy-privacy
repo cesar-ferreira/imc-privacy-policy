@@ -1,0 +1,98 @@
+# Privacy Policy — Combinado
+
+_Last updated: November 22, 2026_
+
+Combinado is the app for people who work for themselves: it makes the quote, organizes the schedule
+and the jobs, collects payment and issues the receipt, all on the phone. It was made to work with no
+account, no server and no internet: **what you enter stays on your phone**. This policy explains
+what the app uses, why, and what happens on the free plan, which shows ads.
+
+## 1. What stays on your phone
+
+Your business details (name, logo, contact, tax ID and payment methods), clients, quotes, work
+orders, receipts, payments, catalog, schedule, notes and receipts you keep, photos and your settings
+are stored only on the device. PDFs, payment QR codes and receipts are created on the phone itself,
+and reminders are scheduled on it. We have no server, create no account and never receive a copy of
+this data. The database and the photos are kept out of the system's automatic cloud backup.
+
+The clients you add are other people's data: they stay on the phone and only leave it if you send
+them a document or include them in a backup or a spreadsheet.
+
+## 2. Permissions
+
+Each permission is requested only when you use the feature, and the app keeps working if you say
+no. Combinado never asks for location or the calendar, and the app's camera never records sound.
+
+| Permission | What for |
+|---|---|
+| Camera | Take a photo of a receipt, your logo and before and after photos of a job. The photo is kept in an app folder. |
+| Photos | Pick a photo with the system photo picker: the app only sees the photos you pick. |
+| Contacts | Import clients from the phone's contacts. They are read on the device and only the people you pick are added. |
+| Notifications | Remind you of visits, quotes about to expire and payments due, at the time you choose. |
+| Exact alarm (Android) | Remind you right on time, such as 1 hour before a visit. Without it, the reminder may be late. |
+| Files | Save and open the backup and the spreadsheet, attach a receipt PDF and, with Premium, save the automatic backup copy, always through the system file picker. |
+
+## 3. Documents, messages, backups and sharing
+
+Something only leaves the device when you send it: a quote or receipt as a PDF, a message ready in
+WhatsApp, a backup, the spreadsheet for your accountant or an email to support. The app never sends
+anything on its own: it gets the message ready and you tap send. You choose where it goes (WhatsApp,
+email, cloud, memory card); from then on, the policy of that service applies. Cost, margin and
+profit never appear on the PDF or the receipt.
+
+In an email to support, the device details (model and versions) are only included if you leave that
+option on, never your clients' data or amounts, and the email is sent from your own email app.
+
+## 4. Ads (free plan)
+
+The free plan shows ads from **Google AdMob**. To show and measure ads, Google may collect the
+device's advertising ID, the IP address (and the approximate location derived from it), technical
+device and system details, and interactions with ads.
+
+- Where the law requires it (such as the European Economic Area, the UK and Switzerland), the app
+  asks for your consent first through Google's consent platform, and you can change your choice
+  later.
+- On iPhone, the system asks whether the app may track you across apps; without permission, the
+  advertising ID is not used.
+- Ad requests never include client data, amounts or photos.
+- With **Premium** there are no ads and the ads SDK is not started.
+
+How Google uses this data: <https://policies.google.com/technologies/partner-sites>.
+
+## 5. Purchases
+
+Subscriptions and the lifetime purchase are processed by **Google Play** or the **App Store**. We
+never receive your payment details; the app only asks the store whether Premium is active. The
+payments you record from your clients, including by Pix, are only notes on the phone: the app never
+moves money or connects to banks.
+
+## 6. Internet
+
+The app uses the internet only for ads (free plan) and the store (purchases and restore
+purchases). Everything else works offline.
+
+## 7. Children
+
+The app is not directed to children under 13 and does not knowingly collect children's data.
+
+## 8. Retention and deletion
+
+Data stays on the phone until you delete it. What you delete goes to the Trash and stays there for
+30 days before it is deleted for good; you can also delete it forever sooner. **Settings › Data ›
+Erase all data** makes the app like new; uninstalling the app also deletes everything. Backups,
+spreadsheets and documents you exported or sent stay wherever you saved them. Since we keep none of
+your data, there is nothing to delete on our side; requests about ad data can be made to Google in
+the ad settings of your account or device.
+
+## 9. Your rights
+
+You have the rights provided by the LGPD (Brazil), the GDPR (Europe) and similar laws. Write to us at
+the email below with any question or request; we reply within 30 days.
+
+## 10. Changes
+
+If this policy changes, the date at the top is updated and relevant changes are announced in the app.
+
+## 11. Contact
+
+Apps Sphere — apps.sphere.25@gmail.com

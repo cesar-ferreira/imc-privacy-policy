@@ -1,0 +1,103 @@
+# Política de Privacidade — Kuido
+
+_Última atualização: 21 de novembro de 2026_
+
+O Kuido é a carteira de saúde e rotina do seu pet: guarda vacinas, vermífugo, antipulgas, remédios,
+banho e tosa, consultas, peso e documentos, e avisa o que vence. Ele foi feito para funcionar sem
+conta e sem servidor: **o que você cadastra fica no seu celular**. Esta política explica o que o app
+usa, para quê, e o que acontece no plano básico, que tem anúncios. É a mesma, por extenso, do resumo
+que o app mostra em Ajustes › Sobre e termos de uso › Política de privacidade.
+
+## 1. O que fica no seu celular
+
+Seus pets, cuidados, registros, pesagens, fotos, PDFs, contatos (veterinário, clínica, quem dá
+banho), os seus dados do cartão e os ajustes são gravados apenas no armazenamento do aparelho. Os
+avisos são agendados no próprio celular. Nós não temos servidor, não criamos conta e não recebemos
+uma cópia desses dados.
+
+Os contatos que você cadastra são dados de outras pessoas: ficam só no celular e só saem se você
+os incluir num backup, numa planilha ou no arquivo de um pet.
+
+## 2. Permissões
+
+Cada permissão é pedida só quando você usa o recurso, e o app continua funcionando se você negar. O
+Kuido não pede localização, contatos do aparelho nem calendário.
+
+| Permissão | Para quê |
+|---|---|
+| Notificações | Avisar dos cuidados no horário que você escolher. |
+| Alarme exato (Android) | Só para remédio com horário marcado, para o aviso chegar na hora; é pedido com explicação no primeiro remédio. Sem ele, o aviso chega no horário aproximado. |
+| Câmera | Tirar foto do pet, do selo da vacina ou de um documento, quando você toca para tirar a foto. |
+| Fotos | Escolher fotos pelo seletor do sistema: o app só vê as fotos que você escolhe. Salvar o cartão do pet nas fotos só adiciona a imagem. |
+| Arquivos | Salvar e abrir os backups, planilhas, PDFs e arquivos de pet que você escolhe e, no Premium, a pasta da cópia automática que você indicar. |
+
+## 3. Backup, arquivos e compartilhamento
+
+Algo só sai do aparelho quando você manda: um backup (`.zip`), a planilha, um arquivo de pet
+(`.kuido`), a carteira em PDF ou imagem, o cartão do pet ou um e-mail para o suporte. Você escolhe o
+destino (e-mail, nuvem, mensagens, outra pessoa); a partir daí, vale a política do serviço que você
+escolheu. O cartão e o QR levam só o que você ligou; a carteira nunca leva endereço, notas pessoais
+nem custos.
+
+No e-mail para o suporte, os dados do celular (modelo, sistema, versão do app e o diagnóstico dos
+avisos) só vão se você deixar essa opção ligada, e o e-mail sai pelo seu próprio app de e-mail.
+
+## 4. Anúncios (plano básico)
+
+O plano básico mostra anúncios do **Google AdMob**. Para exibir e medir anúncios, o Google pode
+coletar o identificador de publicidade do aparelho, o endereço IP (e a localização aproximada
+derivada dele), informações técnicas do aparelho e do sistema, como o modelo e o idioma, e
+interações com os anúncios.
+
+- Onde a lei exige (como Espaço Econômico Europeu, Reino Unido e Suíça), o app pede seu
+  consentimento antes, pela plataforma de consentimento do Google, e você pode mudar a escolha
+  depois.
+- No iPhone, o sistema pergunta se o app pode rastrear você entre apps; sem permissão, o
+  identificador de publicidade não é usado. Se você recusar, os anúncios continuam, mas sem
+  personalização.
+- Nenhum dado dos seus pets vai para a rede de anúncios.
+- No **Premium** não há anúncios e o SDK de anúncios não é iniciado.
+
+Como o Google usa esses dados: <https://policies.google.com/technologies/partner-sites>.
+
+## 5. Compras
+
+Assinaturas e a compra vitalícia são processadas pelo **Google Play** ou pela **App Store**. Nós
+não recebemos seus dados de pagamento; o app só consulta a loja para saber se o Premium está ativo.
+
+## 6. Internet
+
+O app usa a internet apenas para anúncios (plano básico), para a loja (compras e restaurar compras)
+e para o e-mail de contato que você mandar. Todo o resto funciona sem conexão.
+
+## 7. Saúde do pet, não conselho veterinário
+
+O Kuido organiza os cuidados do seu pet; ele não é um serviço de saúde humana nem de saúde
+veterinária. Não sugere remédio, dose nem diagnóstico, e os cuidados sugeridos são pontos de
+partida gerais. Siga sempre a orientação do seu veterinário.
+
+## 8. Crianças
+
+O app não é direcionado a menores de 13 anos e não coleta intencionalmente dados de crianças.
+
+## 9. Por quanto tempo e como apagar
+
+Os dados ficam no celular até você apagá-los. O que você manda para a Lixeira fica lá por 30 dias e
+depois é apagado de vez; você também pode apagar para sempre ou esvaziar a Lixeira antes. Em
+**Ajustes › Backup e dados › Apagar todos os dados** o app volta ao início, sem nenhum dado; desinstalar o app
+também apaga tudo. Backups e arquivos que você exportou continuam onde você os salvou. Como não
+guardamos seus dados, não há o que apagar do nosso lado; pedidos sobre dados de anúncios podem ser
+feitos ao Google nas configurações de anúncios da sua conta ou do aparelho.
+
+## 10. Seus direitos
+
+Você tem os direitos previstos na LGPD (Brasil), no GDPR (Europa) e em leis semelhantes. Fale com a
+gente pelo e-mail abaixo para qualquer dúvida ou pedido.
+
+## 11. Mudanças
+
+Se esta política mudar, a data no topo é atualizada e as mudanças relevantes são avisadas no app.
+
+## 12. Contato
+
+Apps Sphere — apps.sphere.25@gmail.com

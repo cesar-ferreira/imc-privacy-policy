@@ -1,1 +1,89 @@
+# Privacy Policy — Shopping List
 
+_Last updated: November 22, 2026_
+
+Shopping List organizes your shopping lists, keeps the prices you pay at each store and shows what
+the trip will cost. It was made to work with no account, no server and no internet: **what you
+enter stays on your phone**. This policy explains what the app uses, why, and what happens on the
+free plan, which shows ads.
+
+## 1. What stays on your phone
+
+Lists, items, categories, prices, stores, past trips, templates, reminders and your settings are
+stored only on the device. Reminders are scheduled on the phone itself. We have no server, create no
+account and never receive a copy of this data. The app keeps this data out of the system's automatic
+backups (Android and iCloud).
+
+## 2. Permissions
+
+Each permission is requested only when you use the feature, and the app keeps working if you say
+no. Shopping List never asks for location, the camera, photos, contacts or the calendar.
+
+| Permission | What for |
+|---|---|
+| Notifications | Remind you of your lists and trips at the time you choose. |
+| Exact alarm (Android) | Make the reminder arrive at the set time, also after a restart. |
+| Files | Save and open the backup and the spreadsheet, always through the system file picker. |
+
+## 3. Backups, spreadsheet and sharing
+
+Backups, the spreadsheet (CSV) and the lists you share are files or messages that **you** create and
+send wherever you like (email, cloud, messages). The Premium automatic copy, on the 1st of every
+month, is kept in a folder on the phone itself. Once you send something, the policy of the service
+you chose applies.
+
+An email to support only carries what you write and, if you leave the option on, the phone model and
+versions; the email is sent from your own email app.
+
+## 4. Ads (free plan)
+
+The free plan shows ads from **Google AdMob**. To show and measure ads and to prevent fraud, Google
+may collect the device's advertising ID, the IP address (and the approximate location derived from
+it), technical device and system details, interactions with ads (such as app launches, taps and
+video views) and diagnostic data about the app and the SDK.
+
+- Where the law requires it (such as the European Economic Area, the UK and Switzerland), the app
+  asks for your consent first through Google's consent platform, and you can change your choice
+  later.
+- On iPhone, the system asks whether the app may track you across apps; without permission, the
+  advertising ID is not used and ads continue without personalization.
+- None of your lists or prices go to the ad network.
+- With **Premium** there are no ads and the ads SDK is not started.
+
+How Google uses this data: <https://policies.google.com/technologies/partner-sites>.
+
+## 5. Purchases
+
+Subscriptions and the lifetime purchase are processed by **Google Play** or the **App Store**. We
+never receive your payment details; the app only asks the store whether Premium is active. The
+prices you type for your shopping are only notes on the phone.
+
+## 6. Internet
+
+The app uses the internet only for ads (free plan) and the store (purchases and restore
+purchases). Everything else works offline.
+
+## 7. Children
+
+The app is not directed to children under 13 and does not knowingly collect children's data.
+
+## 8. Retention and deletion
+
+Data stays on the phone until you delete it. What you delete goes to the trash and stays there for
+30 days before it is deleted for good. **Settings › Backup & data › Erase all data** makes the app
+like new; uninstalling the app also deletes everything. Backups and spreadsheets you exported stay
+wherever you saved them. Since we keep none of your data, there is nothing to delete on our side;
+requests about ad data can be made to Google in the ad settings of your account or device.
+
+## 9. Your rights
+
+You have the rights provided by the LGPD (Brazil), the GDPR (Europe) and similar laws. Write to us at
+the email below with any question or request; we reply within 30 days.
+
+## 10. Changes
+
+If this policy changes, the date at the top is updated and relevant changes are announced in the app.
+
+## 11. Contact
+
+Apps Sphere — apps.sphere.25@gmail.com

@@ -1,0 +1,100 @@
+# Privacy Policy — Kuido
+
+_Last updated: November 21, 2026_
+
+Kuido is your pet's health and care record: it keeps vaccines, dewormer, flea and tick,
+medications, grooming, vet visits, weight and documents, and reminds you of what's due. It was made
+to work with no account and no server: **what you enter stays on your phone**. This policy explains
+what the app uses, why, and what happens on the basic plan, which shows ads. It is the full version
+of the summary the app shows in Settings › About and terms of use › Privacy policy.
+
+## 1. What stays on your phone
+
+Your pets, care, records, weigh-ins, photos, PDFs, contacts (vet, clinic, groomer), your ID card
+details and your settings are stored only on the device. Reminders are scheduled on the phone itself.
+We have no server, create no account and never receive a copy of this data.
+
+The contacts you add are other people's data: they stay on the phone and only leave it if you
+include them in a backup, a spreadsheet or a pet file.
+
+## 2. Permissions
+
+Each permission is requested only when you use the feature, and the app keeps working if you say no.
+Kuido never asks for location, the device's contacts or the calendar.
+
+| Permission | What for |
+|---|---|
+| Notifications | Remind you of each care at the time you choose. |
+| Exact alarm (Android) | Only for medications with a set time, so the reminder arrives on time; requested with an explanation at the first such medication. Without it, the reminder arrives at about that time. |
+| Camera | Take a photo of your pet, a vaccine label or a document, when you tap to take it. |
+| Photos | Pick photos with the system photo picker: the app only sees the photos you pick. Saving the pet ID card to Photos only adds the image. |
+| Files | Save and open the backups, spreadsheets, PDFs and pet files you choose and, with Premium, the folder you pick for automatic backup copies. |
+
+## 3. Backups, files and sharing
+
+Something only leaves the device when you send it: a backup (`.zip`), the spreadsheet, a pet file
+(`.kuido`), the health record as a PDF or image, the pet ID card or an email to support. You choose
+where it goes (email, cloud, messages, another person); from then on, the policy of that service
+applies. The ID card and QR only carry what you turned on; the health record never includes an
+address, personal notes or costs.
+
+In an email to support, the device details (model, system, app version and the reminder
+diagnostics) are only included if you leave that option on, and the email is sent from your own
+email app.
+
+## 4. Ads (basic plan)
+
+The basic plan shows ads from **Google AdMob**. To show and measure ads, Google may collect the
+device's advertising ID, the IP address (and the approximate location derived from it), technical
+device and system details such as the model and language, and interactions with ads.
+
+- Where the law requires it (such as the European Economic Area, the UK and Switzerland), the app
+  asks for your consent first through Google's consent platform, and you can change your choice later.
+- On iPhone, the system asks whether the app may track you across apps; without permission, the
+  advertising ID is not used. If you decline, ads continue without personalization.
+- None of your pets' data goes to the ad network.
+- With **Premium** there are no ads and the ads SDK is not started.
+
+How Google uses this data: <https://policies.google.com/technologies/partner-sites>.
+
+## 5. Purchases
+
+Subscriptions and the lifetime purchase are processed by **Google Play** or the **App Store**. We
+never receive your payment details; the app only asks the store whether Premium is active.
+
+## 6. Internet
+
+The app uses the internet only for ads (basic plan), the store (purchases and restore purchases) and
+the support email you choose to send. Everything else works offline.
+
+## 7. Pet care, not veterinary advice
+
+Kuido organizes your pet's care; it is not a human or veterinary health service. It never suggests
+medications, doses or diagnoses, and suggested care is a general starting point. Always follow your
+vet's advice.
+
+## 8. Children
+
+The app is not directed to children under 13 and does not knowingly collect children's data.
+
+## 9. Retention and deletion
+
+Data stays on the phone until you delete it. What you move to the Trash stays there for 30 days and
+is then deleted for good; you can also delete forever or empty the Trash sooner. **Settings › Backup
+& data › Erase all data** takes the app back to the start with no data; uninstalling the app
+also deletes everything. Backups and files you exported stay wherever you saved them. Since we keep
+none of your data, there is nothing to delete on our side; requests about ad data can be made to
+Google in the ad settings of your account or device.
+
+## 10. Your rights
+
+You have the rights provided by the LGPD (Brazil), the GDPR (Europe) and similar laws. Write to us at
+the email below with any question or request.
+
+## 11. Changes
+
+If this policy changes, the date at the top is updated and relevant changes are announced in the app.
+
+## 12. Contact
+
+Apps Sphere — apps.sphere.25@gmail.com

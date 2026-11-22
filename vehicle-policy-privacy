@@ -1,1 +1,70 @@
+# Política de Privacidade — AutoGerente
 
+_Última atualização: 16 de novembro de 2026_
+
+O AutoGerente mostra quanto o seu veículo custa e avisa os prazos de manutenção e de documentos. Ele
+funciona sem conta e sem servidor: **o que você registra fica no seu celular**. Esta política explica
+o que o app usa, para quê, e o que acontece no plano grátis, que tem anúncios.
+
+## 1. O que fica no seu celular
+
+Veículos, abastecimentos, despesas, receitas, serviços, lembretes, documentos, as fotos das notas e
+as suas preferências são gravados apenas no armazenamento do aparelho. As fotos das notas ficam numa
+pasta privada do app e não aparecem na galeria. Nós não temos servidor, não criamos conta e não
+recebemos uma cópia desses dados. O app nunca pede placa completa, chassi, Renavam, CPF ou outro
+documento pessoal: no máximo o final da placa ou o mês da matrícula, quando o calendário da sua
+região usa.
+
+## 2. Permissões
+
+Cada permissão é pedida só quando você usa o recurso, e o app continua funcionando se você negar. O
+app não usa localização, contatos nem microfone.
+
+| Permissão | Para quê |
+|---|---|
+| Notificações e alarmes | Avisar a manutenção, os documentos e lembrar de registrar, no horário que você escolher, inclusive depois de reiniciar o celular. |
+| Câmera | Fotografar a nota de um serviço ou de uma despesa. A foto fica no app. |
+| Fotos | Escolher a foto de uma nota na galeria (o app só vê as fotos que você escolhe) e salvar na galeria a imagem que você compartilha. |
+| Arquivos | Salvar e abrir os backups, a planilha e o histórico que você exporta ou recebe. |
+
+## 3. Backup, planilha e passar o histórico adiante
+
+Backups, a planilha, o relatório em PDF e o arquivo do histórico são arquivos que **você** cria e
+envia para onde quiser (e-mail, mensagens, outro aplicativo). A cópia automática do Premium fica numa
+pasta do próprio celular. A partir do momento em que você envia um arquivo, o tratamento segue a
+política do serviço que você escolheu. O arquivo do histórico pode ter um código de 4 dígitos, que
+evita abrir por engano.
+
+## 4. Anúncios (plano grátis)
+
+O plano grátis mostra anúncios do **Google AdMob**. Para exibir e medir anúncios, o Google pode
+coletar o identificador de publicidade do aparelho, o endereço IP (e a localização aproximada
+derivada dele), informações do aparelho e do sistema e as interações com os anúncios.
+
+- Onde a lei exige (como Espaço Econômico Europeu, Reino Unido e Suíça), o app pede o seu
+  consentimento antes, pela plataforma de consentimento do Google, e você pode mudar a escolha depois.
+- No iPhone, o sistema pergunta se o app pode rastrear você entre apps; sem a permissão, o
+  identificador de publicidade não é usado.
+- No **Premium** não há anúncios.
+
+Como o Google usa esses dados: <https://policies.google.com/technologies/partner-sites>.
+
+## 5. Compras
+
+As assinaturas e a compra vitalícia são processadas pelo **Google Play** ou pela **App Store**. Nós
+não recebemos os seus dados de pagamento; o app só consulta se o Premium está ativo.
+
+## 6. Crianças
+
+O app não é feito para crianças e não coleta de propósito dados de menores de 13 anos.
+
+## 7. Seus direitos e como apagar os dados
+
+Como os dados ficam só no seu celular, você os controla: apague registros no app, use "Apagar todos os dados"
+em Ajustes › Backup e dados ou desinstale o app. Os dados de publicidade seguem a política do Google
+e as escolhas do seu aparelho (redefinir ou desligar o identificador de publicidade).
+
+## 8. Mudanças e contato
+
+Se esta política mudar, a data no topo muda junto. Dúvidas: **apps.sphere.25@gmail.com** (Apps
+Sphere).

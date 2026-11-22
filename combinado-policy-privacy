@@ -1,0 +1,99 @@
+# Política de Privacidade — Combinado
+
+_Última atualização: 22 de novembro de 2026_
+
+O Combinado é o app de quem trabalha por conta própria: faz o orçamento, organiza a agenda e os
+serviços, cobra e emite o recibo, tudo no celular. Ele foi feito para funcionar sem conta, sem
+servidor e sem internet: **o que você cadastra fica no seu celular**. Esta política explica o que o
+app usa, para quê, e o que acontece no plano grátis, que tem anúncios.
+
+## 1. O que fica no seu celular
+
+Os dados do seu negócio (nome, logo, contato, documento e formas de recebimento), clientes,
+orçamentos, ordens de serviço, recibos, pagamentos, catálogo, agenda, notas e comprovantes, fotos e
+os seus ajustes são gravados apenas no armazenamento do aparelho. PDFs, QR de pagamento e recibos
+são gerados no próprio celular, e os avisos são agendados nele. Nós não temos servidor, não criamos
+conta e não recebemos uma cópia desses dados. O banco e as fotos ficam fora do backup automático do
+sistema na nuvem.
+
+Os clientes que você cadastra são dados de outras pessoas: ficam só no celular e só saem se você
+enviar um documento para eles ou os incluir num backup ou numa planilha.
+
+## 2. Permissões
+
+Cada permissão é pedida só quando você usa o recurso, e o app continua funcionando se você negar.
+O Combinado não pede localização nem calendário, e a câmera do app nunca grava som.
+
+| Permissão | Para quê |
+|---|---|
+| Câmera | Fotografar a nota, o logo e as fotos de antes e depois do serviço. A foto fica numa pasta do app. |
+| Fotos | Escolher uma foto pelo seletor do sistema: o app só vê as fotos que você escolhe. |
+| Contatos | Importar clientes da agenda do celular. A leitura acontece no aparelho e só entra quem você escolher. |
+| Notificações | Avisar das visitas, dos orçamentos que vencem e das cobranças, no horário que você escolher. |
+| Alarme exato (Android) | Avisar na hora certa, como 1 hora antes de uma visita. Sem ele, o aviso pode atrasar. |
+| Arquivos | Salvar e abrir o backup e a planilha, anexar o PDF de uma nota e, no Premium, gravar a cópia automática, sempre pelo seletor do sistema. |
+
+## 3. Documentos, mensagens, backup e compartilhamento
+
+Algo só sai do aparelho quando você manda: um orçamento ou recibo em PDF, uma mensagem pronta no
+WhatsApp, um backup, a planilha para o contador ou um e-mail para o suporte. O app nunca envia nada
+sozinho: ele deixa a mensagem pronta e você toca em enviar. Você escolhe o destino (WhatsApp,
+e-mail, nuvem, cartão de memória); a partir daí, vale a política do serviço que você escolheu.
+Custo, margem e lucro nunca saem no PDF nem no recibo.
+
+No e-mail para o suporte, os dados do celular (modelo e versões) só vão se você deixar essa opção
+ligada, nunca dados dos seus clientes ou valores, e o e-mail sai pelo seu próprio app de e-mail.
+
+## 4. Anúncios (plano grátis)
+
+O plano grátis mostra anúncios do **Google AdMob**. Para exibir e medir anúncios, o Google pode
+coletar o identificador de publicidade do aparelho, o endereço IP (e a localização aproximada
+derivada dele), informações técnicas do aparelho e do sistema e as interações com os anúncios.
+
+- Onde a lei exige (como Espaço Econômico Europeu, Reino Unido e Suíça), o app pede seu
+  consentimento antes, pela plataforma de consentimento do Google, e você pode mudar a escolha
+  depois.
+- No iPhone, o sistema pergunta se o app pode rastrear você entre apps; sem permissão, o
+  identificador de publicidade não é usado.
+- O pedido de anúncio não leva nenhum dado de cliente, valor ou foto.
+- No **Premium** não há anúncios e o SDK de anúncios não é iniciado.
+
+Como o Google usa esses dados: <https://policies.google.com/technologies/partner-sites>.
+
+## 5. Compras
+
+Assinaturas e a compra vitalícia são processadas pelo **Google Play** ou pela **App Store**. Nós
+não recebemos seus dados de pagamento; o app só consulta a loja para saber se o Premium está ativo.
+Os pagamentos que você registra dos seus clientes, inclusive pelo Pix, são só anotações no celular:
+o app não movimenta dinheiro nem consulta bancos.
+
+## 6. Internet
+
+O app usa a internet apenas para anúncios (plano grátis) e para a loja (compras e restaurar
+compras). Todo o resto funciona sem conexão.
+
+## 7. Crianças
+
+O app não é direcionado a menores de 13 anos e não coleta intencionalmente dados de crianças.
+
+## 8. Por quanto tempo e como apagar
+
+Os dados ficam no celular até você apagá-los. O que você apaga vai para a Lixeira e fica lá por 30
+dias, depois é apagado de vez; você também pode apagar para sempre antes. Em **Ajustes › Dados ›
+Apagar todos os dados** o app volta a ficar como novo; desinstalar o app também apaga tudo. Backups,
+planilhas e documentos que você exportou ou enviou continuam onde você os salvou. Como não
+guardamos seus dados, não há o que apagar do nosso lado; pedidos sobre dados de anúncios podem ser
+feitos ao Google nas configurações de anúncios da sua conta ou do aparelho.
+
+## 9. Seus direitos
+
+Você tem os direitos previstos na LGPD (Brasil), no GDPR (Europa) e em leis semelhantes. Fale com a
+gente pelo e-mail abaixo para qualquer dúvida ou pedido; respondemos em até 30 dias.
+
+## 10. Mudanças
+
+Se esta política mudar, a data no topo é atualizada e as mudanças relevantes são avisadas no app.
+
+## 11. Contato
+
+Apps Sphere — apps.sphere.25@gmail.com
